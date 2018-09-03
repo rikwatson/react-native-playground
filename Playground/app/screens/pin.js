@@ -1,5 +1,7 @@
 // From https://github.com/ttdung11t2/react-native-confirmation-code-input
 //
+'use strict'
+
 import React, {Component} from 'react'
 import {Platform, StyleSheet, Text, View} from 'react-native'
 import CodeInput from 'react-native-confirmation-code-input'
