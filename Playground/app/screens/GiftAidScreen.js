@@ -1,11 +1,3 @@
-/**
- * (c) Omea Point Ltd., 2018
- *
- * @format
- * @flow
- */
-'use strict'
-
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
