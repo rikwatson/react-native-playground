@@ -41,7 +41,7 @@ const MainApp = StackNavigator({
   GiftAidInformationScreen: {screen: GiftAidInformationScreen},*/
 
 }, {
-  initialRouterName: 'Start',
+  initialRouteName: 'Start',
 //  headerMode: 'none',
   cardStyle: { backgroundColor: 'transparent' }
 })
