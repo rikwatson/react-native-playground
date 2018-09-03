@@ -1,5 +1,5 @@
 /**
- * (c) Omea Point Ltd., 2018
+ * (c) Omega Point Ltd., 2018
  *
  * @format
  * @flow
